@@ -1,18 +1,18 @@
 <template>
-    <nav class="nav">
-        <div class="nav__item">
-            <a href="#">Link</a>
-        </div>
-        <div class="nav__item">
-            <a href="#">Link</a>
-        </div>
-        <div class="nav__item">
-            <a href="#">Link</a>
-        </div>
-        <div class="nav__item">
-            <a href="#">Link</a>
-        </div>
-    </nav>
+	<nav class="nav">
+		<div class="nav__item">
+			<a href="#">Link</a>
+		</div>
+		<div class="nav__item">
+			<a href="#">Link</a>
+		</div>
+		<div class="nav__item">
+			<a href="#">Link</a>
+		</div>
+		<div class="nav__item">
+			<a href="#">Link</a>
+		</div>
+	</nav>
 </template>
 
 <script>

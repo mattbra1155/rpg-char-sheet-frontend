@@ -1,22 +1,22 @@
 <template>
-    <div>
-        <Top-nav />
-        <Nuxt />
-    </div>
+	<div>
+		<Top-nav />
+		<Nuxt />
+	</div>
 </template>
 
 <script>
-import topNav from '../components/top-nav.vue'
+import topNav from '../components/Top-nav.vue'
 
 export default {
-    components: { 'Top-nav': topNav },
+	components: { 'Top-nav': topNav },
 }
 </script>
 
 <style lang="scss">
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 </style>
