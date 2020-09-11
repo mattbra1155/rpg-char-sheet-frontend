@@ -7,7 +7,7 @@
 			<nuxt-link to="/characters/">Characters</nuxt-link>
 		</div>
 		<div class="nav__item">
-			<a href="#">Link</a>
+			<nuxt-link to="/user/">User</nuxt-link>
 		</div>
 		<div class="nav__item">
 			<a href="#">Link</a>

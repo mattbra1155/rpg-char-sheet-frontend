@@ -1,7 +1,7 @@
 <template>
-	<div class="test">
+	<div class="characters">
 		<LazyCharacterList :characters="charactersData" />
-		<h1>users</h1>
+		<h1>characters</h1>
 	</div>
 </template>
 
